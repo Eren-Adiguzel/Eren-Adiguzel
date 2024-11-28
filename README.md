@@ -1,5 +1,5 @@
-Merhaba! 👋 Ben [Eren ADIGÜZEL]
-Ben [Eren Adıgüzel], bilgisayar programcılığı 1. sınıf öğrencisiyim ve yazılım alanında ilerlemeyi hedefliyorum. 🚀 Yazılıma olan tutkum ve sürekli öğrenme isteğimle kendimi bu alanda geliştiriyorum.
+Merhaba! 👋 Ben Eren ADIGÜZEL
+Bilgisayar programcılığı 1. sınıf öğrencisiyim ve yazılım alanında ilerlemeyi hedefliyorum. 🚀 Yazılıma olan tutkum ve sürekli öğrenme isteğimle kendimi bu alanda geliştiriyorum.
 Hedeflerim:
 👨‍💻 Yazılım Geliştirme: Web, mobil ve masaüstü uygulamaları geliştirme konusunda uzmanlaşmak.
 📚 Sürekli Öğrenme: Yeni teknolojiler ve programlama dilleri öğrenmek.
