@@ -1,3 +1,6 @@
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEDooMFZaIbxg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734773141981?e=1740009600&v=beta&t=c6kaNUUsz5Wy2CIPp2NoTU_-RorjYUtQfYUYvVW8t9M)
+
+
 <h1 align="center">Hi 👋, I'm Eren Adıgüzel</h1>
 <h3 align="center">A passionate C Programming Learner | Aspiring Software Developer from Türkiye</h3>
 
